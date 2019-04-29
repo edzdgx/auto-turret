@@ -63,7 +63,7 @@ def checkTarget():
         print 'target in range, FIRE!\n'
         print 're-calibrating...\n'
         PullTrigger()
-        time.sleep(5)
+        time.sleep(3)
 
 def checkX(x_angle):
     # left 0
