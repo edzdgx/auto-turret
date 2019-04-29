@@ -44,3 +44,6 @@ Connect Camera Module V2 to Raspberry Pi with silver band facing the HDMI port. 
 
 Servos:
 There are 3 wires connected to each servo (red/black/yellow) each representing power/ground/signal. Red should go directly into an external battery, black should go to ground on breadboard (which is the common ground for all batteries and servos.
+
+# Demo
+[Video Demo](https://www.youtube.com/watch?v=N5QmZ92uvUo)
