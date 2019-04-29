@@ -25,7 +25,8 @@ Pin #  | Component
 3  | Y-axis Servo
 5  | Trigger Servo
 6  | Ground
-7  | X-axis Servo
+7  | BROKEN!
+11 | X-axis Servo
 
 # Software Setup
 * For facial recognition, use OpenCV  library: 
