@@ -8,6 +8,7 @@ An embedded system that controls a paintball gun to automatically aim at desired
 All code is included in the repository.
 
 # hardware setups 
+![](/images/hardware_setup1.jpg)
 Raspberry Pi:
 Connect Camera Module V2 to Raspberry Pi with silver band facing the HDMI port. Connect mouse and keyboard using USB port. Connect HDMI with a screen.
 
